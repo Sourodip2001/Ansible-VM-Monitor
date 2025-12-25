@@ -1,0 +1,5 @@
+smtp_server: "smtp.gmail.com"
+smtp_port: 587
+email_user: "sourodip2421@gmail.com"
+email_pass: "ipgo qpcl eeln hvgx"
+alert_recipient: "nathsouro2001@gmail.com"
